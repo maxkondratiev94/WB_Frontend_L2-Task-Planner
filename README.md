@@ -1,9 +1,4 @@
 # **Todo-expert**
-> web app, React
-
-![preview](https://github.com/romankrivopalov/todo-expert/blob/main/src/assets/preview.png?raw=true)
-
-> Проект выполнен в рамках прохождения стажировки в компании Wildberries. Самостоятельная реализация UI/UX для каждого мини-проекта, под соответствующее задание.
 
 ### **Требования**
 ***
@@ -14,13 +9,6 @@
 * Основные критерие оценки — проработка архитектуры и законченность мини-проекта.
 * Сделайте 5 любых заданий из списка
  
-### **Проекты**
-***
-1. [tic-tac-toe (web game)](https://github.com/romankrivopalov/tic-tac-toe)
-2. todo-expert (web app, React) :star: *этот репозиторий*
-1. [pick-a-number (web game)](https://github.com/romankrivopalov/pick-a-number)
-1. [daily-calories (web app)](https://github.com/romankrivopalov/daily-calories)
-1. [tetris (web game)](https://github.com/romankrivopalov/tetris)
 
 ### **Задание**
 ***
@@ -56,18 +44,7 @@
 * HTML5
 * CSS3, Адаптивная вёрстка под мобильные устройства
 
-### **Возможные доработки и исправления**
-***
-* Отмена выбора прошедших часов в дне для задачи
-* Исправить логику показа задач завтра (в уведомлении) для последнего дня месяца
-* Переключение активных кнопок, при редактировании и копировании
-* Переключение месяцев
-* Выделение задачи при истечении её срока
-
-### **Срок реализации основного функционала**
-***
-`11.09.2023` - `14.09.2023`
 
 ***
-[Открыть приложение в браузере](https://romankrivopalov.github.io/todo-expert)
+[Открыть приложение в браузере]( https://maxkondratiev94.github.io/WB_Frontend_L2-Task-Planner/)
 
